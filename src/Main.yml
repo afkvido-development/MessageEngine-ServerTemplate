@@ -1,0 +1,4 @@
+serverAddress: MessageEngine-ServerTemplate.msgeng
+disabled: true
+serverName: Server Template
+serverUrl: https://github.com/afkvido-development/MessageEngine-ServerTemplate/
