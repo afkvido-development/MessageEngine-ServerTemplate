@@ -1,0 +1,3 @@
+Hi!
+
+It seems like this server hasn't set a custom help command yet.
