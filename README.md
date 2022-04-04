@@ -5,6 +5,7 @@ A template for you to create your own MessageEngine servers
 
 ### Step 1: Use the template
 https://github.com/afkvido-development/MessageEngine-ServerTemplate/generate
+
 Name the repository what you want your server address to be.
 Make sure your branch is named `main`
 
