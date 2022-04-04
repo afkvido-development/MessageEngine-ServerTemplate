@@ -19,7 +19,7 @@ Make sure that:
 - `disabled: false` If disabled is true, then good luck with your server. Disabled is a useful tool for when you want to close a server.
 - `serverName: [Server Name]` Pick whatever you want your server to be called!
 - `serverUrl: https://github.com/[UserName]/[RepoName]/tree/main/server.msgeng`
-- `version: v0.0.0-Type` Choose the version you want your server to run on ([Latest Alpha](https://github.com/afkvido-development/MessageEngine-API/blob/master/src/api/versions/latest/Alpha.yml), [Latest PTB](https://github.com/afkvido-development/MessageEngine-API/blob/master/src/api/versions/latest/PTB.yml), [Latest Stable](https://github.com/afkvido-development/MessageEngine-API/blob/master/src/api/versions/latest/Stable.yml), [Latest LITE](https://github.com/afkvido-development/MessageEngine-API/blob/master/src/api/versions/latest/LITE.yml))
+- `version: x.x.x` Choose the version you want your server to run on ([Latest](https://github.com/afkvido-development/MessageEngine-API/blob/master/src/api/versions/latest/Stable.yml))
 
 ### Step 3: Enable
 
